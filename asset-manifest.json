@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.d9a55299.css",
+    "main.js": "/Portfolio/static/js/main.bb7b4a56.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/pain.png": "/Portfolio/static/media/pain.6f5cfb5753b3de8c6605.png",
+    "static/media/RESUME.pdf": "/Portfolio/static/media/RESUME.ab94eb7519d29652d14e.pdf",
+    "static/media/responsive.png": "/Portfolio/static/media/responsive.5f0a2b7a4af2dbcd40e3.png",
+    "static/media/html.png": "/Portfolio/static/media/html.3fa3e93660e6ed512957.png",
+    "static/media/github.png": "/Portfolio/static/media/github.e095614eaff8801bf7e6.png",
+    "static/media/travel.png": "/Portfolio/static/media/travel.a249124dc93a52936fe2.png",
+    "static/media/java.png": "/Portfolio/static/media/java.062825dbceed44567e91.png",
+    "static/media/css.png": "/Portfolio/static/media/css.8ea58d31a9d39dd59031.png",
+    "static/media/react.png": "/Portfolio/static/media/react.44319306359c7112276d.png",
+    "static/media/ecommerce.png": "/Portfolio/static/media/ecommerce.566c81bbc154052b12b3.png",
+    "static/media/game.png": "/Portfolio/static/media/game.4920ec2de745ccd29e49.png",
+    "static/media/instagram.png": "/Portfolio/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/Portfolio/index.html",
+    "main.d9a55299.css.map": "/Portfolio/static/css/main.d9a55299.css.map",
+    "main.bb7b4a56.js.map": "/Portfolio/static/js/main.bb7b4a56.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9a55299.css",
+    "static/js/main.bb7b4a56.js"
+  ]
+}
