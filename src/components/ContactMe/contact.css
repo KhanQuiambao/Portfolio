@@ -24,7 +24,7 @@
     padding: 0 2rem;
 }
 
-contactForm {
+.contactForm {
     margin: 1rem;
     display: flex;
     flex-direction: column;
