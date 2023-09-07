@@ -12,13 +12,16 @@
 
 .contactPageTitle {
     font-size: 3rem;
-    margin-bottom: 1rem;
+    font-weight: 600;
+    padding-top: 3rem;
+    margin-bottom: 1.5 rem;
 }
 
 .contactDesc {
-    padding: 2rem;
-    font-size: medium;
     font-weight: 300;
+    font-size: 1rem;
+    max-width: 55rem;
+    padding: 0 2rem;
 }
 
 contactForm {
