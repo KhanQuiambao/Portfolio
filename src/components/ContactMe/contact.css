@@ -80,7 +80,8 @@
         width: 90vw;
     }
     .contactDesc{
-        font-size: 10vw;
+        font-size: 3vw;
+        text-align: center;
     }
     
 }
